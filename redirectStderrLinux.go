@@ -1,4 +1,4 @@
-// +build linux unix
+// +build linux
 
 // Log the panic under unix to the log file
 
