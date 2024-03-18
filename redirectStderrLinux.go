@@ -1,4 +1,4 @@
-// +build linux
+// +build linux unix darwin
 
 // Log the panic under unix to the log file
 
